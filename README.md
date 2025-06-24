@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I am Mehdi (aka KeyWoZzer)
 
-<!--
-**KeyWoZzer/KeyWoZzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a computer science student based in Lyon, France (UCBL1)
+🎯 My goal is to become a **cloud security engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core skills
+
+- ☁️ **Cloud**: AWS (Cloud Practitioner leveled, preparing for Solutions Architect Associate)
+- 🔐 **Security & Systems**: Basic networking, Linux, Git, command line
+- 💻 **Programming**: Python, C, C++, HTML/CSS, some JavaScript
+- 🌐 ** Web**: Creating and hosting static & dynamic websites
+
+---
+
+## 🔧 Projects
+
+*(Coming soon — feel free to check back as I update this section!)*
+
+---
+
+## 📫 Contact
+
+✉️ **Email** : mehdimoujib27@gmail.com
+💠 **LinkedIn** : https://www.linkedin.com/in/mehdi-moujib-4838ba309
+
+---
+
+# 🚀 Thanks for visiting my profile!
