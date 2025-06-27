@@ -10,7 +10,7 @@
 - ☁️ **Cloud**: AWS (Cloud Practitioner leveled, preparing for Solutions Architect Associate)
 - 🔐 **Security & Systems**: Basic networking, Linux, Git, command line
 - 💻 **Programming**: Python, C, C++, HTML/CSS, some JavaScript
-- 🌐 ** Web**: Creating and hosting static & dynamic websites
+- 🌐 **Web**: Creating and hosting static & dynamic websites
 
 ---
 
